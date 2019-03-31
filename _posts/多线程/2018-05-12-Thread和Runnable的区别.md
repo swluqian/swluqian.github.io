@@ -1,3 +1,9 @@
+---
+layout: post
+comments: true
+categories: 多线程
+---
+
 # Thread与Runnable区别
 
 执行多线程操作可以选择

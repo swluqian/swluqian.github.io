@@ -1,3 +1,9 @@
+---
+layout: post
+comments: true
+categories: 多线程
+---
+
 # 带for循环代码的线程被interrupt后，依然会执行完for循环后代码的问题解决
 
 当试图停止一个带有for循环的线程时，会出现如下“不想出现的情况”。

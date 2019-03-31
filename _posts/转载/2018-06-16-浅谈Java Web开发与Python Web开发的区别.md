@@ -1,3 +1,9 @@
+---
+layout: post
+comments: true
+categories: 转载
+---
+
 # 浅谈Java Web开发与Python Web开发的区别
 
 **转载自**： [浅谈Java Web开发与Python Web开发的区别 – 金丝燕网](https://note.youdao.com/)

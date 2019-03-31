@@ -1,3 +1,9 @@
+---
+layout: post
+comments: true
+categories: linux
+---
+
 # linux以rsync对文件目录进行备份，利用exclude跳过指定类型文件
 
 有时会有备份某些文件(例如脚本)的需求，但又不想把脚本执行的日志或一些结果文件备份，可以使用rsync中的exclude来解决。
